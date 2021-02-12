@@ -16,7 +16,9 @@ Updated By **ItsWrath**
 - **start** or **ensure** panzar-load In **server.cfg**
 
 ## Configuration:
-- Change All Displayable Text In **loadscreen.html**
+- Change Text 
+  - All Text Can Be Changed In The **loadscreen.html**
+   - You Can Modify The Looks Of The Text In The **loadscreen.css**
 - Changing Background Image
   - If You Upload A **.jpg** Image You Can Just Rename It To **bg.jpg**, Delete The Default **bg.jpg** and Put Yours In The **img** Folder
    - If You Upload A **.png** Image Then You Need To Rename It To **bg.png**, Put It In The **img** Folder, Then In The **fxmanifest.lua** Rename **bg.jpg** To **bg.png**
