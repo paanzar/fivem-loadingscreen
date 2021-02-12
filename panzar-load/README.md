@@ -16,7 +16,7 @@ Updated By **ItsWrath**
 - **start** or **ensure** panzar-load In **server.cfg**
 
 ## Configuration:
-- Change Text 
+- Changing Text 
   - All Text Can Be Changed In The **loadscreen.html**
    - You Can Modify The Looks Of The Text In The **loadscreen.css**
 - Changing Background Image
