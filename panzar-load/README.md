@@ -22,3 +22,7 @@ Configuration:
    - If You Upload A **.png** Image Then You Need To Rename It To **bg.png** Then In The **fxmanifest.lua** Rename **bg.jpg** To **bg.png**
     - Then Go To The **loadscreen.css** and Rename **bg.jpg** To **bg.png**
      - If Your Uploading A Link To An Image Then Go To **loadscreen.css** and Delete The **bg.jpg** and Copy and Paste Your Link
+- Adding Music
+  - Download Your File As A **.mp3** File
+   - Rename It To **music.mp3** 
+    - Drag and Drop It In The **music** Folder 
