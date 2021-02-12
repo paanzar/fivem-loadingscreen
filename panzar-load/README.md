@@ -1,6 +1,6 @@
 Panzar Loadingscreen
 
-Created By **Panzar**
+Created By [**Panzar**](https://github.com/paanzar)
 
 Updated By **ItsWrath**
 
