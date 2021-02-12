@@ -17,7 +17,7 @@ Installation:
 
 Configuration:
 - Change All Displayable Text In **loadscreen.html**
-- Change Background Image In **loadscreen.css**
+- Changing Background Image
   - If You Upload A **.jpg** Image You Can Just Rename It To **bg.jpg** and Put It In The **img** Folder
     - If You Upload A **.png** Image Then You Need To Rename It To **bg.png** Then In The **fxmanifest.lua** Rename **bg.jpg** To **bg.png**
       - Then Go To The **loadscreen.css** and Rename **bg.jpg** To **bg.png**
