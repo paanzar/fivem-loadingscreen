@@ -4,7 +4,7 @@ game "gta5"
 
 files {
     -- Main
-    'edit_this.html',
+    'loadscreen.html',
     'loadscreen.css',
     'bg.jpg',
     
