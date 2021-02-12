@@ -25,4 +25,5 @@ Configuration:
 - Adding Music
   - Download Your File As A **.mp3** File
    - Rename It To **music.mp3** 
-    - Drag and Drop It In The **music** Folder 
+    - Delete The Default **music.mp3** File 
+     - Drag and Drop Yours In The **music** Folder 
