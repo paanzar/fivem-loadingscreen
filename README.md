@@ -1,2 +1,0 @@
-# fivem-loadingscreen
-FiveM Loadingscreen
