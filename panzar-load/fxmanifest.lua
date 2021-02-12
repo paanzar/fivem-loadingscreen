@@ -6,10 +6,10 @@ files {
     -- Main
     'loadscreen.html',
     'loadscreen.css',
-    'bg.jpg',
+    'img/bg.jpg', 
     
     -- Music
- -- 'music/music.mp3' Music File
+    'music/music.mp3'
 }
 
 loadscreen 'loadscreen.html'
