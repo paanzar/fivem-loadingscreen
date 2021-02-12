@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,400i,700');
 
 body {
-    background-image: url(bg.jpg);
+    background-image: url(img/bg.jpg); /*You Can Also Use An Image Link  ex. background-image: url(https://imgur.com/b5Rozw7);*/
 
     background-position: center;
     background-repeat: no-repeat;
