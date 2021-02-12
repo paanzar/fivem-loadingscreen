@@ -6,7 +6,7 @@ files {
     -- Main
     'edit_this.html',
     'loadscreen.css',
- -- 'bg.png', Background Image
+    'bg.jpg',
     
     -- Music
  -- 'music/music.mp3' Music File
