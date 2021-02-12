@@ -8,8 +8,8 @@ files {
     'keks.css',
  -- 'bg1.png', Background Image
     
-    -- Musiken
-    'music/music.mp3'
+    -- Music
+ -- 'music/music.mp3' Music File
 }
 
 loadscreen 'edit_this.html'
