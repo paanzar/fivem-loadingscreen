@@ -1,8 +1,8 @@
 Panzar Loadingscreen
 
-Created By Panzar
+Created By **Panzar**
 
-Updated By ItsWrath
+Updated By **ItsWrath**
 
 Changes: 
 - Updated __resource.lua to fxmanifest.lua
