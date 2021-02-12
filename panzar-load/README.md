@@ -4,18 +4,18 @@ Created By [**Panzar**](https://github.com/paanzar)
 
 Updated By **ItsWrath**
 
-Changes: 
+## Changes: 
 - Updated __resource.lua to fxmanifest.lua
 - Fixed Audio Not Playing By Using **.mp3** File
 - Easier To Change Background Image
 - Added **img** Folder For Organization
 
-Installation: 
+## Installation: 
 - Download
 - Drag and Drop Into Your **resources** Folder
 - **start** or **ensure** panzar-load In **server.cfg**
 
-Configuration:
+## Configuration:
 - Change All Displayable Text In **loadscreen.html**
 - Changing Background Image
   - If You Upload A **.jpg** Image You Can Just Rename It To **bg.jpg**, Delete The Default **bg.jpg** and Put Yours In The **img** Folder
